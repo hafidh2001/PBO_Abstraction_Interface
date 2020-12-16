@@ -1,0 +1,12 @@
+3. Tulislah dan jelaskan perbedaan antara abstract class dan interface
+   
+   Jawab :
+   
+   Interface untuk mendefinisikan method standar yang sama dalam class-class 
+   yang berbeda. Sekali kita telah membuat kumpulan definisi method standar(abstrak), 
+   kita dapat menulis method tunggal(spesifik) untuk memanipulasi semua class-class 
+   yang mengimplementasikan interface tsb.
+   
+   Abstract class untuk mendefinisikan secara luas sifat-sifat dari class tertinggi 
+   pada hirarki OOP, dan gunakan subclassnya (turunannya/child class) untuk melengkapi 
+   deskripsi method dari class abstract.
